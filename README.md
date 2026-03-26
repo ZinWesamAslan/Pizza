@@ -1,10 +1,12 @@
 # Pizza Order Management System
 
 A desktop application developed using C# and Windows Forms to manage and calculate pizza orders. This project demonstrates the application of UI controls, event handling, and conditional logic in a professional desktop environment.
+![Uploading pizza1.png…]()
 
 ## Project Overview
 
 The application provides a structured interface for users to customize their pizza orders. It features a dynamic pricing engine that calculates the total cost based on selected dimensions, crust types, and toppings.
+![Uploading pizza2.png…]()
 
 ### Key Features
 
